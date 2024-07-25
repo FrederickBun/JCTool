@@ -1,6 +1,6 @@
 <div align="center">
     <strong><span style="font-size:32px;">Just Command Tool</span></strong>&emsp;
-	<img src="https://img.picui.cn/free/2024/07/19/6699e47367099.ico" width="128" height="128" style="vertical-align:middle;"/>
+	<img src=".\icon\server.ico" width="128" height="128" style="vertical-align:middle;"/>
 </div>
 <div align="center">
     <img src="https://raster.shields.io/badge/Author-A6n6d6y6_llzzmm645-red"/>&ensp;
